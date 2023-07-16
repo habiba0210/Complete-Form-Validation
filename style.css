@@ -22,20 +22,20 @@
 
 .card {
     width: 100vh;
-    height: 50vh;
+    /* height: 50vh; */
     border-radius: 20px;
     padding: 5px;
     box-shadow: rgba(130, 252, 65, 0.2) 0 15px 30px -5px;
-    background-image: linear-gradient(144deg,#ff40ac, #42edf3 50%,#00DDEB);
-    margin-left: 350px;
-    margin-top: 150px;
+    background-image: linear-gradient(144deg,#ff40ac, #42caf3 50%,#00DDEB);
+    /* margin-left: 350px;
+    margin-top: 150px; */
   }
   
   .card__content {
     background: rgb(45, 5, 30);
     border-radius: 17px;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     align-items: center;
     justify-content: center;
   }
